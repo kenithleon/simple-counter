@@ -8,7 +8,7 @@ You can increase, decrease, and reset the counter with button clicks.
 
 🚀 Live Demo
 
-Click here to view the demo
+Click here to view the demo : https://kenithleon.github.io/simple-counter/
 
 
 
