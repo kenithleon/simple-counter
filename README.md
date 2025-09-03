@@ -6,8 +6,8 @@ A simple counter app with **increase, decrease, and reset buttons**, built using
 [Click here to view the demo](https://kenithleon.github.io/simple-counter/)  
 
 ## 📸 Preview  
-![image alt]((https://github.com/kenithleon/simple-counter/blob/8e1906e5f2e3896e7e4fd090af97f6367d223bc7/Screenshot%202025-09-03%20175106.png)  
-*(Add a screenshot of your app by taking one and saving it as `screenshot.png` in the repo.)*  
+![image alt]((https://github.com/kenithleon/simple-counter/blob/8e1906e5f2e3896e7e4fd090af97f6367d223bc7/Screenshot%202025-09-03%20175106.png)
+
 
 ## ✨ Features  
 - ➕ Increase the counter  
