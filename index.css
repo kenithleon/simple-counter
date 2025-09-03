@@ -1,0 +1,27 @@
+#myCount{
+    display: block;
+    text-align: center;
+    font-size: 10rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#message{
+    text-align: center;
+    gap: 10px;
+}
+
+.button{
+    gap: 30px;
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.35s;
+
+}
+
+.button:hover{
+    background-color: rgb(250, 24, 24);
+}
