@@ -14,7 +14,7 @@ Click here to view the demo : https://kenithleon.github.io/simple-counter/
 
 📸 Preview
 
-
+![image alt](https://github.com/kenithleon/simple-counter/blob/91c26e74fc85f924febdcb8c4d4fe683e274f104/Screenshot%202025-09-03%20175106.png)
 
 
 ✨ Features
